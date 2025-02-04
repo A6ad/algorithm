@@ -1,0 +1,5 @@
+1.ekta node er sathe kon kon node connected eta ber korte adjacency list use korte hobe
+
+2.2 ta node connected kina jante adjacency matrix use korte hobe
+
+3.sudhu edge niye kaj korte edge list udse korbo
