@@ -2,4 +2,4 @@
 
 2.2 ta node connected kina jante adjacency matrix use korte hobe
 
-3.sudhu edge niye kaj korte edge list udse korbo
+3.sudhu edge niye kaj korte edge list use korbo
